@@ -6,7 +6,7 @@ import productRoutes from "./routes/productRoutes.js"
 import cartRoutes from "./routes/cartRoutes.js"
 import orderRoutes from "./routes/orderRoutes.js"
 import paymentRoutes from "./routes/paymentRoutes.js"
-import { errorHandler } from "./middleware/errorHandler.js"
+import { errorHandler } from "./middleware/errorHandler.js"               
 
 dotenv.config()               
                       
